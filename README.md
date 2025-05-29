@@ -55,7 +55,7 @@ Full details of each product with option to favorite it.
 - Tailwind CSS 💅
 - Axios
 - lodash.debounce
-- Jest / Vitest for testing
+- Jest for testing
 
 ---
 
