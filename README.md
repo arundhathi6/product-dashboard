@@ -2,7 +2,7 @@
 
 ## 🛍 About Project
 
-This is a **Barbie-themed Product Dashboard** built using **React**, **Redux Toolkit**, **Tailwind CSS**, and **Testing Libraries**. It showcases a beautiful, responsive product listing experience with features like search, filter, sort, favorites, and product details.
+This is a Barbie-themed Product Dashboard built using React, Redux Toolkit, Tailwind CSS, and Testing Libraries. It showcases a beautiful, responsive product listing experience with features like search, filter, sort, favorites, and product details.
 
 It's a solo project by [Arundhathi R Menon](https://github.com/arundhathi6) 🌸
 
@@ -74,4 +74,4 @@ Full details of each product with option to favorite it.
 git clone https://github.com/arundhathi6/product-dashboard
 cd product-dashboard
 npm install
-npm run dev
+npm start
