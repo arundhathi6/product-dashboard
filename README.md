@@ -10,7 +10,7 @@ It's a solo project by [Arundhathi R Menon](https://github.com/arundhathi6) 🌸
 
 ## 🔗 Deployment Link
 
-👉 [https://barbie-dashboard.netlify.app](https://barbie-dashboard.netlify.app) (replace with your live link)
+👉 [https://product-dashboard-rouge.vercel.app/products](https://product-dashboard-rouge.vercel.app/products)
 
 ---
 
@@ -34,7 +34,7 @@ Full details of each product with option to favorite it.
 
 ## ✨ Features
 
-- 🌐 Fetch products from Fake Store API or DummyJSON
+- 🌐 Fetch products from Fake Store API
 - 💾 State management via Redux Toolkit
 - 🔁 Async data handling using Redux Thunks
 - 🧠 Selectors for optimal rendering
