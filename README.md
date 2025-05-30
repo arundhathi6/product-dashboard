@@ -49,7 +49,7 @@ Full details of each product with option to favorite it.
 
 ## 🎀 Tech Stack & Toolkits Used
 
-- ReactJS (functional components + hooks)
+- NextJS
 - Redux Toolkit
 - React Router DOM
 - Tailwind CSS 💅
